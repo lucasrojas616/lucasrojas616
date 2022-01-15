@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucasrojas616
+- 👋 Hi, I’m Lucas Rojas
 - 👀 I’m interested in becoming a great programmer
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on some grat proyects 
