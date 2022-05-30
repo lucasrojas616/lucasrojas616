@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Rojas
 - 👀 I’m interested in becoming a great programmer
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning HTML, CSS, Javascript and Python
 - 💞️ I’m looking to collaborate on some great proyects 
 - 📫 How to reach me ...
 
